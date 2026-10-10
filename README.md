@@ -3,7 +3,7 @@
 > **Hackathon Track:** CivicTech — *Improving Transparency and Coordination in Public Works Projects*  
 > **Event:** 24-Hour Web Development Hackathon • IIITDM Kancheepuram  
 > **Repository:** [https://github.com/Abrar-908/CivilTech](https://github.com/Abrar-908/CivilTech)  
-> **🌐 Live Deployment:** [https://abrar-908.github.io/CivilTech/](https://abrar-908.github.io/CivilTech/)  
+> **🌐 Live Deployment:** [https://abrar-908.github.io/CivilTech/](https://civicsync-public-works.onrender.com)  
 > **🎥 Video Demonstration (2–5 Mins):** [Demo Video Link](https://github.com/Abrar-908/CivilTech)  
 
 ---
