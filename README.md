@@ -3,7 +3,7 @@
 > **Hackathon Track:** CivicTech — *Improving Transparency and Coordination in Public Works Projects*  
 > **Event:** 24-Hour Web Development Hackathon • IIITDM Kancheepuram  
 > **Repository:** [https://github.com/Abrar-908/CivilTech](https://github.com/Abrar-908/CivilTech)  
-> **🌐 Live Deployment:** [https://abrar-908.github.io/CivilTech/](https://civicsync-public-works.onrender.com)  
+> **🌐 Live Hosted Site (Render):** [https://civicsync-public-works.onrender.com](https://civicsync-public-works.onrender.com)  
 > **🎥 Video Demonstration (2–5 Mins):** [Demo Video Link](https://github.com/Abrar-908/CivilTech)  
 
 ---
@@ -140,7 +140,7 @@ graph TD
 * **Technical Implementation (35%):** Full-featured React SPA with custom Leaflet GIS mapping, dynamic conflict resolution engine, geotagged citizen portal, and contractor SLA ledger.
 * **Feasibility (20%):** Modeled directly on the organizational structures of metropolitan corporations (PWD, Metro Water, TNEB, Smart Cities Mission).
 * **Video Presentation & Usability (15%):** Intuitive persona switching (Citizen, Dept Engineer, City Commissioner), high-contrast accessible UI, and real-time visual feedback.
-* **Deployment (10%):** Production-ready build with zero external build dependencies.
+* **Deployment / Hosting (10%):** Successfully deployed and publicly accessible live on Render: [https://civicsync-public-works.onrender.com](https://civicsync-public-works.onrender.com). Zero installation needed for judges to review and test.
 
 ---
 
