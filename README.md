@@ -4,7 +4,7 @@
 > **Event:** 24-Hour Web Development Hackathon • IIITDM Kancheepuram  
 > **Repository:** [https://github.com/Abrar-908/CivilTech](https://github.com/Abrar-908/CivilTech)  
 > **🌐 Live Hosted Site (Render):** [https://civicsync-public-works.onrender.com](https://civicsync-public-works.onrender.com)  
-> **🎥 Video Demonstration (2–5 Mins):** [Demo Video Link](https://github.com/Abrar-908/CivilTech)  
+> **🎥 Video Demonstration (2–5 Mins):** [Watch Demo Video (Google Drive)](https://drive.google.com/file/d/1VOpNP090xz_hnn8CwK1_2Df4gglE_UO4/view?usp=drivesdk)  
 
 ---
 
@@ -139,7 +139,7 @@ graph TD
 * **Innovation (20%):** Introduces proactive algorithmic clash detection and "Dig-Once" joint trenching rather than passive status displays.
 * **Technical Implementation (35%):** Full-featured React SPA with custom Leaflet GIS mapping, dynamic conflict resolution engine, geotagged citizen portal, and contractor SLA ledger.
 * **Feasibility (20%):** Modeled directly on the organizational structures of metropolitan corporations (PWD, Metro Water, TNEB, Smart Cities Mission).
-* **Video Presentation & Usability (15%):** Intuitive persona switching (Citizen, Dept Engineer, City Commissioner), high-contrast accessible UI, and real-time visual feedback.
+* **Video Presentation & Usability (15%):** Full 2–5 min demonstration video available at [Google Drive Link](https://drive.google.com/file/d/1VOpNP090xz_hnn8CwK1_2Df4gglE_UO4/view?usp=drivesdk) showcasing the GIS works map, Dig-Once deconfliction engine, citizen portal, and contractor ledger.
 * **Deployment / Hosting (10%):** Successfully deployed and publicly accessible live on Render: [https://civicsync-public-works.onrender.com](https://civicsync-public-works.onrender.com). Zero installation needed for judges to review and test.
 
 ---
